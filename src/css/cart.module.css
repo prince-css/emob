@@ -1,0 +1,35 @@
+.table_wrapper{
+
+    padding-top: 10vh;
+}
+
+.table{
+    width:60%;
+    position:absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    text-align: center;
+}
+.sign{
+    min-width:30px;
+    padding:5%;
+    border:1px solid black;
+    border-radius: 2px;
+}
+.appeal,.checkout,.clear{
+    margin-top:20px;
+    background-color: #a80038;
+    color:white;
+    font-weight: bolder;
+    font-size: 1.5rem;
+}
+.checkout{
+    background-color: goldenrod;
+    color:black;
+}
+.checkout:hover,.clear:hover{
+    background-color: #2b2024;
+    color:gold;
+    box-shadow: 0px 0px 30px 3px black;
+    cursor: pointer;
+}
