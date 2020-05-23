@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/emob/static/css/main.d89fb763.chunk.css",
+    "main.js": "/emob/static/js/main.876a4a8f.chunk.js",
+    "main.js.map": "/emob/static/js/main.876a4a8f.chunk.js.map",
+    "runtime-main.js": "/emob/static/js/runtime-main.14ece905.js",
+    "runtime-main.js.map": "/emob/static/js/runtime-main.14ece905.js.map",
+    "static/css/2.829c9cb5.chunk.css": "/emob/static/css/2.829c9cb5.chunk.css",
+    "static/js/2.5112a3fa.chunk.js": "/emob/static/js/2.5112a3fa.chunk.js",
+    "static/js/2.5112a3fa.chunk.js.map": "/emob/static/js/2.5112a3fa.chunk.js.map",
+    "index.html": "/emob/index.html",
+    "precache-manifest.21372d27d970fb70d69f19a49b1416d5.js": "/emob/precache-manifest.21372d27d970fb70d69f19a49b1416d5.js",
+    "service-worker.js": "/emob/service-worker.js",
+    "static/css/2.829c9cb5.chunk.css.map": "/emob/static/css/2.829c9cb5.chunk.css.map",
+    "static/css/main.d89fb763.chunk.css.map": "/emob/static/css/main.d89fb763.chunk.css.map",
+    "static/js/2.5112a3fa.chunk.js.LICENSE.txt": "/emob/static/js/2.5112a3fa.chunk.js.LICENSE.txt",
+    "static/media/home.module.css": "/emob/static/media/stripped_bg5.fbc5d504.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.14ece905.js",
+    "static/css/2.829c9cb5.chunk.css",
+    "static/js/2.5112a3fa.chunk.js",
+    "static/css/main.d89fb763.chunk.css",
+    "static/js/main.876a4a8f.chunk.js"
+  ]
+}
